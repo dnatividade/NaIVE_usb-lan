@@ -5,7 +5,6 @@ GNU/Linux Debian9 x64
 Kernel 4.9.0-8-amd64
 
 PS.: Virtualized by VirtualBox 5.2.22
--------------------------
 
 #### Drivers disabled in /etc/modprobe.d/blacklist.conf:
 `#remove UART to ARDUINO NaIVE works`
@@ -16,4 +15,4 @@ blacklist hid
 blacklist hidgeneric
 blacklist usbcore
 blacklist usb_common
--------------------------
+
